@@ -1,5 +1,5 @@
 # DataScience
-파이썬(Python) 데이터분석 튜토리얼
+파이썬(python) 데이터분석 튜토리얼
 
 ## 개발환경
 Jupyter Notebook
